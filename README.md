@@ -22,7 +22,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
-* `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
+* `p.74` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in the rest of the book.
 * `p.86` in Table 3-3 Animal Instincts: The deer has the trait **Charge**. Looks like this isn't a valid trait.
 * `p.91` in Thrash: "plus your **ferocious specialization** damage". What is that? Is that meant to be **weapon specialization**? (Credit to [/u/boomstik101](https://www.reddit.com/r/Pathfinder2e/comments/cfomkf/barbarian_ferocious_specilization_damage/) on Reddit.)
 * `p.93` in Dragon Transformation: "your breath weapon DC increases to 30". Isn't this leftover from the playtest? Shouldn't this instead be something like being able to use the barbarian's Class DC?
