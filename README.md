@@ -186,3 +186,5 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * There's some [oddities and discussion here](https://paizo.com/threads/rzs42nr6?Wounded-and-taking-damage-while-dying) around the rules for taking damage while wounded.
 
 * Looks like by RAW, you could grapple, trip, etc, swarms. Pulling back on the harsh rles from PF1e is great at least.
+
+* In the Bestiary, many monsters have the Constrict ability, which says that creatures can attempt a basic Fortitude save with "the listed DC", but many of the creatures with this ability don't list a DC.
