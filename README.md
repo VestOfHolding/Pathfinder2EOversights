@@ -129,6 +129,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 
 ## Bestiary
 
+* `p.112` in Ancient Red Dragon: The size trait should be **Gargantuan** instead of **Huge**.
 * `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
 * `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
 * `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
