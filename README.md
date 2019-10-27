@@ -19,10 +19,10 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.26` in Step 7: "Likewise, record your character's **their** armor proficiencies in the...". Word should be deleted.
 * `p.34` in Society: "**Today's dwarves today** retain". Remove one of the "today"s.
 * `p.41` in Universal Longevity: "changing the skills you selected with **Elven Longevity** and Expert Longevity". Is this meant to be referencing **Ancestral Longevity**?
-* `p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?
+* ~`p.44` in Gnome Weapon Familiarity: "You are trained with the glaive and kukri. In addition, you gain access to all uncommon gnome weapons." The kukri doesn't have the gnome tag, and is uncommon. Is it just missing the gnome tag then?~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 ---
 * `p.52` and `p.59`: Halfling and Orc Weapon Familiarity ancestry feats are missing the line "For the purpose of determining your proficiency."
-* `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.
+~* `p.62` in "Field Medic" description: "You gain the **Battle Medic** skill feat." The feat as listed on `p.258` is named **Battle Medicine**.~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 * `p.73` in Chirurgeon research field: "lesser antidote, less antiplague, or **lesser** elixir of life". This should be **minor** elixir of life, right? Found by [/u/HereWeGoTeddy on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/ciqr0d/chirurgeon_class_feature_gives_lesser_elixir_of/).
 * `p.75` in Perpetual Infusions: "Mutagenist: Choose two of the following formulas: lesser bestial mutagen, **lesser bullheaded mutagen**...". There is no bullheaded mutagen in this book.
 * `p.75` in Perpetual Infusions in Bomber: "lesser bottled lightning, **lesser liquid ice**, lesser tanglefoot bag...". Should be "**lesser frost vial**".
@@ -35,7 +35,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.97` in Adaptive Adept: "or prepared spells just like the cantrip from Adapted **Spell**". Should be Adapted **Cantrip**.
 ---
 * `p.103` in Effortless Concentration: This version for the bard has a requirement of having not acted on your turn yet. Is it on purpose that this is different from the version that Druids (p.138), Sorcerers (p.201), and Wizards (p.213) have, which only have a trigger of their turn beginning? 
-* `p.132` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).
+* ~`p.132` Table 3-11: Based on the text for primal spellcasting on page 130, should the Druid have **5** cantrips at all levels instead of the currently listed **4**? ([Credit to Runnetib](https://paizo.com/threads/rzs42nmp&page=4?TyposMistakesEtc-in-2E-Books-Collection#164), there is dev confirmation that this should be 5).~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 * `p.139` in the Primal Wellspring feat: "Prerequisites: **Wild Focus**". Should be "Prerequisites: **Primal Focus**".
 * `p.139` in Monstrosity Shape: "add the phoenix form listed in **aerial form** to your wild shape list". Phoenix form is actually listed in **monstrosity form**.
 * `p.145`: Page number is blocked by fighter's foot.
@@ -70,7 +70,7 @@ If you know of an error that isn't on this list, there are a few ways you can te
 * `p.275` in Chain shirt entry: "Flexible, **Noisy**". Lowercasing to **noisy** makes it consistent with both the rest of this table column, and the "Weapon Traits" column in the weapons tables.
 * `p.278` in Critical Hits: "When you make an attack and roll a natural 20... or if the result of your attack exceeds the target's AC by 10, you achieve a critical success." A nat 20 does not guarantee a critical success.
 * `p.278` in Improvised Weapons: What proficiency bonus do players use for improvised weapons?
-* `p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.
+* ~`p.284` in Bastard Sword: "...it can be held in one hand or used with two hands to provide extra **piercing** or slashing power". Bastard swords don't deal piercing damage.~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 * `p.287` in Candle: Doesn't list a duration.
 * `p.288` Mark Seifter mentioned in the Know Direction podcast that the item "Adventurer's pack" should have a Bulk of **1** instead of **2**. [Double confirmed by errata](https://www.reddit.com/r/Pathfinder2e/comments/crgobt/pathfinder_2e_errata_from_the_designers/)
 * `p.292` in Torch: Doesn't look like the torch lists a duration.
@@ -89,12 +89,12 @@ If you know of an error that isn't on this list, there are a few ways you can te
 ---
 * `p.356` in Pest Form: "You transform into **a** the battle form of a Tiny animal". The extra "a" should be deleted.
 * `p.368` in Shadow Siphon: "instead take only half as much damage**.** but...". The period should be a comma.
-* `p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.
+* ~`p.370` in Sound Burst: Critical Failure says stunned 1 for 1 minute. This sounds like an oddly long time.~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 * `p.397` in Splash of Art: "**Sluggish** 1 for 1 round". What's the Sluggish condition? Is this meant to be the **Clumsy** condition?
 * `p.398` and `p.405` **Touch of Undeath** is the name of two different spells for the Cleric and Sorcerer. Seems worth renaming one of them.
 ---
 * `p.409` in Atone spell: "Heightened (**5th**)". Based on the rest of the spell, is this meant to be **+1**?
-* `p.441` in Whispering Way: No follower alignments.
+* ~`p.441` in Whispering Way: No follower alignments.~ Fixed with [Upcoming official errata](https://www.reddit.com/r/Pathfinder2e/comments/dn60yw/errata_discussion_from_the_paizo_stream/).
 * `p.441` in Domains table: **Ambition** domain is listed before the **Air** domain. Should be the other way around.
 ---
 * `p.454` "Paralyzed: **You** body is frozen in place." **You** should be **Your**.
