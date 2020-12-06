@@ -18,8 +18,6 @@ This list has been updated to remove the massive number of things that were succ
 
 * `p.112` in Ancient Red Dragon: The size trait should be **Gargantuan** instead of **Huge**.
 * `p.134` in Draconic Frenzy: "The frost drake makes two **gang Strikes**". Should be "**fang Strikes**".
-* `p.150`: The Air Mephit has a +19 Reflex save. This is high to a statistically significant extent for a level 1 creature. See note at the bottom of this post.
-* `p.157`: The Faerie Dragon has a +16 Perception. This is high to a statistically significant extent for a level 2 creature. See note at the bottom of this post.
 * `p.174` in Storm Giant: **Sense Motive** is listed as one of its skills.
 * `p.195`: Grikkitog says "Resistances 10 (except adamantine)". What kind of resistance? Physical? All?
 * `p.208` in sidebar: "the crafting of a soulbound doll (page **306**)". Should be **304**.
